@@ -1,0 +1,8 @@
+{
+  "name": "بنزین‌یاب هوشمند | رادار پمپ بنزین و پرداخت سریع",
+  "description": "سامانه موقعیت‌یابی پمپ‌های بنزین و CNG، مسیریابی بهینه، پایش لحظه‌ای صف و شلوغی، قیمت روز سوخت و پرداخت سریع آنلاین.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
