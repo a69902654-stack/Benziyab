@@ -6,12 +6,6 @@
 
 ---
 
-## 📸 Preview
-
-![Benziyab Dashboard](./docs/preview.png)
-
----
-
 ## ✨ Features
 
 ### 🗺️ Smart Map
